@@ -325,6 +325,18 @@ h3{
     margin-top: 1rem;
 }
 
+@media (min-width: 768px) { 
+    .primero{
+        margin-top: 1rem;
+    }
+}
+
+@media (min-width: 1280px) { 
+    .primero{
+        margin-top: 12rem;
+    }
+}
+
 .texto-producto h3{
     margin: 0;
 }
